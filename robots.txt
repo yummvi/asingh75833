@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yummvi.github.io/asingh75833/sitemap.xml 
