@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /norobots/
-Sitemap: http://your-site-name.github.io/sitemap.xml
+Sitemap: http://yummvi.github.io/sitemap.xml
